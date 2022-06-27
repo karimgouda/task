@@ -1,0 +1,76 @@
+
+body
+{
+    background-color: gray;
+}
+
+h1
+{
+    color: white;
+}
+
+input
+{
+    width: 200px;
+    /* text-align: center; */
+    background-color: #09c;
+    border: none;
+    color: white;
+}
+
+button
+{
+    width: 100px;
+    height: 30px;
+    background-color:#09c;
+    border: none;
+    /* border-radius: 50px; */
+    color: white;
+}
+.text
+{
+    width: 100%;
+    height: 1px;
+    background-color: #09c;
+}
+
+table
+{
+    background-color: #09c;
+    color: white;
+    /* border: none; */
+}
+.dev
+{
+    color: white;
+}
+.dev1
+{
+    color: yellow;
+}
+.dev2
+{
+    color: red;
+}
+h2{
+    color: white;
+}
+a
+{
+    color:crimson;
+    padding-left: 20px;
+}
+h3
+{
+    color: white;
+}
+p{
+    color: tomato;
+}
+.dev4
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 200px;
+}
